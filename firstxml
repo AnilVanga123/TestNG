@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ranga">
+<test name="Report">
+<classes>
+<class name="Jan23.Demo1"/>
+<class name="Jan23.Demo2"/>
+</classes>
+</test>
+</suite>
